@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Emad-Eljoker/world-weather-api/static/css/main.89b0b3ee.css",
+    "main.js": "/Emad-Eljoker/world-weather-api/static/js/main.19617766.js",
+    "static/js/453.e5c104c5.chunk.js": "/Emad-Eljoker/world-weather-api/static/js/453.e5c104c5.chunk.js",
+    "static/js/38.3f7ad4be.chunk.js": "/Emad-Eljoker/world-weather-api/static/js/38.3f7ad4be.chunk.js",
+    "static/media/IBMPlexSansArabic-Bold.ttf": "/Emad-Eljoker/world-weather-api/static/media/IBMPlexSansArabic-Bold.c8ea63858164ba793173.ttf",
+    "static/media/IBMPlexSansArabic-Thin.ttf": "/Emad-Eljoker/world-weather-api/static/media/IBMPlexSansArabic-Thin.baafae7b71e95053bdc3.ttf",
+    "static/media/IBMPlexSansArabic-Regular.ttf": "/Emad-Eljoker/world-weather-api/static/media/IBMPlexSansArabic-Regular.384cad38115f7532a957.ttf",
+    "index.html": "/Emad-Eljoker/world-weather-api/index.html",
+    "main.89b0b3ee.css.map": "/Emad-Eljoker/world-weather-api/static/css/main.89b0b3ee.css.map",
+    "main.19617766.js.map": "/Emad-Eljoker/world-weather-api/static/js/main.19617766.js.map",
+    "453.e5c104c5.chunk.js.map": "/Emad-Eljoker/world-weather-api/static/js/453.e5c104c5.chunk.js.map",
+    "38.3f7ad4be.chunk.js.map": "/Emad-Eljoker/world-weather-api/static/js/38.3f7ad4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b0b3ee.css",
+    "static/js/main.19617766.js"
+  ]
+}
