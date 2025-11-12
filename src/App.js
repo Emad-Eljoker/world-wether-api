@@ -13,7 +13,7 @@ function App() {
     },
     }
   })
-  console.log("Mounting App Componet ")
+
   return (
     <ThemeProvider theme={theme}>
     <div className="App">

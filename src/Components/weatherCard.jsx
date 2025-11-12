@@ -24,7 +24,7 @@ const key = "e2a11bca70d259e73ca948d2d43a76a6";
 let cancel = null;
 
 export default function WeatherCard() {
-   console.log("Mounting Weather Card Componet ")
+   
   //Api
    const [date,setDate] =useState("")
   const [city, SetCity] = useState("cairo");
@@ -231,7 +231,7 @@ useEffect(() => {
              {t(weatherData.dis)}
             </Typography>
             <Typography variant="p" dir="ltr" sx={{ mt: "40px", ml: "0px" }}>
-            {weatherData.max} : {t('الصغري')} : {weatherData.min} &nbsp;   |&nbsp; {t('الكبري')}
+            {weatherData.max} : {t('min')} : {weatherData.min} &nbsp;   |&nbsp; {t('max')}
             </Typography>
           </div>
 
